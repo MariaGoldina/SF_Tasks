@@ -18,16 +18,16 @@ sort_list()
 print(f"Введенная последовательность после сортировки по возрастанию имеет вид: {num_list}")
 
 
-def BinarySearchList(list_, element, left, right):
+def binary_search_list(list_, element, left, right):
     if left > right:
         return False
     middle = (left + right) // 2
     if list_[middle] < element <= list_[middle + 1]:
         return middle
     elif element < list_[middle]:
-        return BinarySearchList(list_, element, left, middle-1)
+        return binary_search_list(list_, element, left, middle-1)
     else:
-        return BinarySearchList(list_, element, middle+1, right)
+        return binary_search_list(list_, element, middle+1, right)
 
 
 try:
@@ -51,4 +51,4 @@ else:
         print("Элемента последовательности меньше введенного числа не существует.")
     else:
         print(f"Элемент последовательности меньше введенного числа имеет индекс "
-              f"{BinarySearchList(num_list, num, 0, (len(num_list)-1))}.")
+              f"{binary_search_list(num_list, num, 0, (len(num_list)-1))}.")
