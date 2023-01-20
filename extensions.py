@@ -28,6 +28,8 @@ class CurrenciesPrise:
                                       f"\n(для вызова подсказки введите /help)")
         try:
             amount = float(amount)
+            if amount <= 0:
+                raise APIException(f"Не удалось обработать количество {amount}. Введите положительное число.")
         except ValueError as e:
             raise APIException(f"Не удалось обработать количество {amount}. Введите число в необходимом формате."
                                       f"\n(для вызова подсказки введите /help)")
