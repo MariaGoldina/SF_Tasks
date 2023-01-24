@@ -1,0 +1,35 @@
+УВАЖАТЬ ВСЯКОГО ЧЕЛОВЕКА…
+(По А.Шопенгауэру)
+
+    Надо уважать всякого человека, какой бы он ни был жалкий и смешной. Надо помнить, что во всяком человеке
+живёт тот же дух, какой и в нас. Даже тогда, когда человек отвратителен* и душой и телом, надо думать так:
+“Да, на свете должны быть и такие уроды**, и надо терпеть их”. Если же мы показываем таким людям наше отвращение,
+то, во-первых, мы несправедливы, а во-вторых, вызываем таких людей на войну не на жизнь, а на смерть.
+
+    Какой он ни есть, он не может переделать себя. Что же ему делать, как только бороться с нами, как с врагами?
+
+НЕСКОЛЬКО СОВЕТОВ
+(По Т.Джефферсону)
+
+1. Не откладывай до завтра, что можешь сделать сегодня.
+2. Не заставляй другого делать то, что можешь сделать сам.
+3. Гордость обходится дороже, чем всё, что нужно для еды, питья, жилища, одежды.
+4. Сколько мы перемучились из-за того, что не случилось, но лишь могло случиться.
+5. Если рассердишься, прежде чем что-нибудь сделаешь или скажешь, сосчитай до десяти. Если не поможет,
+сосчитай до ста, и это не помогло - сосчитай до тысячи.
+
+Quality assurance
+From Wikipedia, the free encyclopedia
+
+Quality assurance (QA) is the term used in both manufacturing and service industries to describe the systematic
+efforts taken to ensure that the product(s) delivered to customer(s) meet with the contractual and other agreed
+upon performance, design, reliability, and maintainability expectations of that customer.
+The core purpose of Quality Assurance is to prevent mistakes and defects in the development and production
+of both manufactured products, such as automobiles and shoes, and delivered services, such as automotive repair
+and athletic shoe design. Assuring quality and therefore avoiding problems and delays when delivering products
+or services to customers is what ISO 9000 defines as that "part of quality management focused on providing
+confidence that quality requirements will be fulfilled". This defect prevention aspect of quality assurance
+differs from the defect detection aspect of quality control and has been referred to as a shift left since
+it focuses on quality efforts earlier in product development and production (i.e., a shift to the left of a linear
+process diagram reading left to right) and on avoiding defects in the first place rather than correcting them
+after the fact.
